@@ -3,14 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-
+frames/
 *.json
-capture/
-capture-color-graded/
-render/
 *.txt
 *.mp4
-
 
 # C extensions
 *.so
